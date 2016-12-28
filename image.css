@@ -1,0 +1,12 @@
+#ram
+       {
+	border-style:solid;
+	background-color:#e2e3e3;
+	border-color:white;
+        float:left;
+	margin:100px 100px 100px 450px;
+       }
+#img
+       {
+	border-radius:800px;
+       }
